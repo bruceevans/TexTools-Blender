@@ -1,5 +1,7 @@
 # TexTools for Blender #
 
+Added support for grid point snapping of UV Islands.
+
 TexTools is a Free addon for Blender 3D with a set of professional UV and Texture tools. Back in 2009 renderhjs released the [Original TexTools](http://renderhjs.net/textools/) for 3dsMax. Current features include: multiple easy Texture Baking modes, UV Layout tools (Align, Rectify, Sort, Randomize...), smart Selection tools and Texel Density tools.
 
 ## Download & Documentation ##
